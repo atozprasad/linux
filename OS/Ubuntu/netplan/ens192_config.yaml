@@ -1,0 +1,10 @@
+network:
+  version: 2
+  renderer: NetworkManager
+  ethernets:
+    ens192:
+      addresses:
+        - 10.156.160.191/20
+      gateway4: 10.156.175.253
+      nameservers:
+        addresses: [10.156.128.10,10.156.128.11]

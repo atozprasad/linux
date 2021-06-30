@@ -1,0 +1,11 @@
+#!/bin/bash
+iftop
+vnstat
+iptraf
+hping3
+dstat
+icinga
+slurm
+bmon
+nmap
+tcpdump
