@@ -1,0 +1,3 @@
+#Open a ssh tunnel from the remote host exmple 
+ssh -L 5900:<ubuntu-desktopserver>:5900 atozprasad@<ubuntu-desktop-server>
+#ssh -L 5900:10.156.134.95:5900 atozprasad@10.156.134.95
