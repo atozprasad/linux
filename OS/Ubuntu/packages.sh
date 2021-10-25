@@ -7,5 +7,4 @@ sudo apt-get install -y net-tools
 sudo apt install -y golang-go
 sudo apt  install -y nmap
 sudo apt install -y iputils-arping
-
-
+sudo apt install -y yamllint
